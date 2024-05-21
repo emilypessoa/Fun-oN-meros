@@ -7,6 +7,8 @@ Este projeto em PHP permite que os usuários insiram uma lista de números separ
 
 Os resultados são exibidos de forma descritiva após o envio do formulário.
 
+[!img](gifnumeros.gif)
+
 ## 💻Pré-requisitos
 
 Para executar este projeto, você precisará de:
